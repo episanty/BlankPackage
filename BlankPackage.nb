@@ -1,7 +1,7 @@
 Notebook[{
 
 Cell[CellGroupData[{
-Cell[TextData[StyleBox["BlankPackage : a Mathematica package template ",
+Cell[TextData[StyleBox["BlankPackage: a Mathematica package template ",
  FontSize->
   24]], "Title",ExpressionUUID->"7f209d14-bba5-4705-b124-d36a87c1beee"],
 
@@ -238,12 +238,12 @@ Cell["Timestamp", \
 Cell[BoxData[
  RowBox[{
   RowBox[{"Begin", "[", "\"\<`Private`\>\"", "]"}], ";", 
-  RowBox[{"$BlankPackageTimestamp", "=", "\"\<Mon 13 Feb 2023 18:09:20\>\""}],
+  RowBox[{"$BlankPackageTimestamp", "=", "\"\<Mon 13 Feb 2023 18:14:34\>\""}],
    ";", 
   RowBox[{"End", "[", "]"}], ";"}]], "Input",
  InitializationCell->True,
  CellTags->
-  "version-timestamp",ExpressionUUID->"8f784b73-58b1-4371-9b6a-d2b30a9eba11"]
+  "version-timestamp",ExpressionUUID->"9805c05c-789d-4ab2-a5c0-4daa0861721e"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -489,7 +489,7 @@ NotebookEventActions->{{"MenuCommand", "Save"} :> (NotebookWrite[
       True, CellTags -> "version-timestamp"], None, AutoScroll -> False]; 
    NotebookSave[]), PassEventsDown -> True},
 WindowSize->{1374.75, 1197.},
-WindowMargins->{{Automatic, 609.75}, {61.5, Automatic}},
+WindowMargins->{{Automatic, 609.75}, {33.75, Automatic}},
 PrintingCopies->1,
 PrintingStartingPageNumber->1,
 PrintingPageRange->{Automatic, Automatic},
@@ -522,6 +522,7 @@ PrintingOptions->{"FacingPages"->True,
 "PrintingMargins"->{{19.84251968503, 19.84251968503}, {72., 72.}}},
 PrivateNotebookOptions->{"FileOutlineCache"->False},
 ShowSelection->True,
+TaggingRules-><|"TryRealOnly" -> False|>,
 TrackCellChangeTimes->False,
 SpellingDictionaries->{"CorrectWords"->{
  "subpackage", "Pisanty", "subpackages"}},

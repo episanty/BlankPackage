@@ -1,4 +1,4 @@
-BlankPackage : a Mathematica package template 
+BlankPackage: a Mathematica package template 
 ====
 
 This notebook is a template to start Mathematica packages. 
